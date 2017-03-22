@@ -9,7 +9,7 @@ __Step 1__
   This will create a default touch button with image component, and place it as child under the gameobject you clicked on.
 __Step 2.__
   Select newly created object:
-  ![img2][http://rebound.studio/generate_prompt.png "Press button!"]
+  ![img2][http://rebound.studio/generate_promt.png "Press button!"]
   Hitting the "Generate Animator" button will present dialogue window, where you must select a location of animator
   controller and it's name. The default path is set your Unity project.
   _Please note that animator controller must be saved inside {project-name}/Assets/.. folder._
