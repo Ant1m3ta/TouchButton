@@ -3,17 +3,17 @@ Handy script for creating touch buttons with ability to auto-generate animator c
 
 Use this script for super quick touch controls implementations while prototyping or doing your own project.
 
-__Step 1__
+__Step 1__  
   Right click on any element inside canvas and select UI/Touch Button:  
   ![img1](http://rebound.studio/create_touchButton.png)  
   This will create a default touch button with image component, and place it as child under the gameobject you clicked on.
-__Step 2.__
+__Step 2.__  
   Select newly created object:  
   ![img2](http://rebound.studio/generate_promt.png "Press button!")  
   Hitting the "Generate Animator" button will present dialogue window, where you must select a location of animator
   controller and it's name. The default path is set your Unity project.
   _Please note that animator controller must be saved inside {project-name}/Assets/.. folder._
-__Step 3__
+__Step 3__  
   The newly created animator controller should look like this:  
   ![img3](http://rebound.studio/generate_prompt.png "Receive bacon!")  
   Animator state machine is already configured with necessary transitions and triggers:  
