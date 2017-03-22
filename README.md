@@ -12,10 +12,10 @@ __Step 2.__
   ![img2](http://rebound.studio/generate_promt.png "Press button!")  
   Hitting the "Generate Animator" button will present dialogue window, where you must select a location of animator
   controller and it's name. The default path is set your Unity project.
-  _Please note that animator controller must be saved inside {project-name}/Assets/.. folder._
+  _Please note that animator controller must be saved inside {project-name}/Assets/.. folder._<br />
 __Step 3__  
   The newly created animator controller should look like this:  
-  ![img3](http://rebound.studio/generate_prompt.png "Receive bacon!")  
+  ![img3](http://rebound.studio/generate_promt.png "Receive bacon!")  
   Animator state machine is already configured with necessary transitions and triggers:  
   ![img4](http://rebound.studio/controllerView.png)  
   
