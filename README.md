@@ -1,2 +1,2 @@
 # TouchButton
-Handy script for creating compact animator controllers.
+Handy script for creating touch buttons with ability to auto-generate animator controllers.
